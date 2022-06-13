@@ -1,4 +1,4 @@
-# [Ryan Developer IOk](https://ryandeveloper.io)
+# [Ryan Developer IO](https://ryandeveloper.io)
 ![Logo](/images/ryanio-full-logo.png)
 
  - Repository for ryandeveloper.io
