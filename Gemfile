@@ -18,7 +18,6 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-compose"
   gem "jekyll-paginate"
-  gem "jekyll-avatar"
 end
 
 gem 'wdm' if Gem.win_platform?
