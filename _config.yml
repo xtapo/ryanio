@@ -29,7 +29,7 @@ description:           >
   Here I will be showing off projects, code snippets, insights, and guides on Unity & C# development.
 
 # A shorter description for the sidebar.
-tagline:               Documenting my journey as a self taught Unity developer
+tagline:               
 
 # A list of keywords for your blog
 keywords:              ['unity', 'c#', 'development', 'programming', 'coding', 'engineer', 'portfolio', 'python']
@@ -49,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Main
+  - title:             Home
     url:               /blog/
   - title:             Projects
     url:               /projects/
@@ -65,11 +65,11 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
+  - title:             License
     url:               /LICENSE/
-  - title:             NOTICE
+  - title:             Notice
     url:               /NOTICE/
-  - title:             CHANGELOG
+  - title:             Changelog
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
