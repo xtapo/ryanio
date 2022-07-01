@@ -3,7 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+ My current projects include my passion project, Omni, numerous packages for importation into Unity, and a WPF & Blazor application (proprietary) for managing internal calibrations.
 no_groups: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Welcome!
+title: Welcome to RyanDeveloper.io!
 sitemap: false
 cover: true
 
@@ -8,6 +8,9 @@ cover: true
 
 I'm glad you could stop by. I'm a very passionate C# developer who has been focusing on projects in Unity the past three (3) years. 
 
+ - Home
+ - Tst
+ 
 ## The Genesis of Programming
 [BYOND](http://www.byond.com).
 

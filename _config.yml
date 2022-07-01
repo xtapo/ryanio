@@ -49,8 +49,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Home
-    url:               /blog/
   - title:             Projects
     url:               /projects/
   - title:             Code Snippets
@@ -59,8 +57,8 @@ menu:
     url:               /docs/
   - title:             Résumé
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Home
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
