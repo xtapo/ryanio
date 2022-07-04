@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "62fa558b749f53b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c7b8a20c8696ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_projects/_obsidian-includes/extension-methods-content.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67c631398d4b2de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "787d28964211419f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598aeeeb5ce0051b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f27a6ce8d2a34e4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56c7525aa31833a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "451294aeca0b9eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685923bf8b228bff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_projects/_obsidian-includes/extension-methods-content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24c7b8a20c8696ba",
+  "lastOpenFiles": [
+    "_projects/_obsidian-includes/extension-methods-content.md",
+    "_projects/extension-methods.md",
+    "_projects/hydejack-site.md",
+    "_projects/_obsidian-includes/omni-gdd-embed.md",
+    "_projects/omni.md"
+  ]
+}

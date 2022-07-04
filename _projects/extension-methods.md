@@ -13,4 +13,4 @@ image:
     480w:  /assets/img/projects/hydejack-site@0,25x.jpg
 sitemap: true
 ---
-{% include_relative _obsidian-includes/projects/extension-methods-obsidian.md %}
+{% include_relative _obsidian-includes/extension-methods-content.md %}
