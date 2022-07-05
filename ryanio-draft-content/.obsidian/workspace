@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "5a7c7c9ebbd41459",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5c5b94f6f8b5db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithms in Development.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86cd3f2ba0ab9d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "824a7dad163cfa8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee7eef0155db48de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6900bbd967372e3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348
+  },
+  "right": {
+    "id": "f6bbd8a9e50ced6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "73a8028496ab7009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b0f2417441ca4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithms in Development.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5d1e6ee70fc48cc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithms in Development.md"
+              }
+            }
+          },
+          {
+            "id": "1a977a23d7daa42e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ea5c5b94f6f8b5db",
+  "lastOpenFiles": [
+    "Algorithms in Development.md",
+    "UniTask.md",
+    "procedural-generation-overview.md",
+    "Astar.md",
+    "examples/example-toc-with-css.md",
+    "templates/html-external-link.md",
+    "templates/project.md",
+    "templates/html-internal-link.md",
+    "templates/bold-italic.md",
+    "SebastianLague.md"
+  ]
+}
