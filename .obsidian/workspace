@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resume.md",
+            "file": "ryanio-draft-content/procedural-generation-overview.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#asset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 416
   },
   "right": {
     "id": "56c7525aa31833a8",
@@ -69,14 +70,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "ryanio-draft-content/procedural-generation-overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3219bab9e8ecd47b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -84,11 +96,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "24c7b8a20c8696ba",
   "lastOpenFiles": [
+    "ryanio-draft-content/procedural-generation-overview.md",
+    "ryanio-draft-content/Astar.md",
+    "ryanio-draft-content/DebugDrawExtensions.md",
+    "ryanio-draft-content/Algorithms in Development.md",
     "resume.md",
     "_projects/_obsidian-includes/extension-methods-content.md",
     "_projects/extension-methods.md",
