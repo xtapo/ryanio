@@ -1,18 +1,25 @@
----
-created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Ryan IO - Engine Tool - Procedural Generator"]
----
-
-# Project -> Engine Tool, Procedural Generator
+# Procedural Generator
 ___
 ## Description 
-<p class = "tab"> 
-				One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential. 
-</p>
-
----
+- One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential. 
 
 ## Project information
+
+# Procedural Generator
+___
+## Description 
+- One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential. 
+
+## Project information
+
+| Created | Deadline   | Completed                  | Type        | Platform | Dependencies(I)                                          | Dependencies(E)                                                |
+| ------------ | ---------- | ------------------------------- | ----------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Jun-2021    | Mar-2022 | Mar-2022 | Tool | Unity    | Odin Inspector<br>Burst<br>Jobs<br>Addressables<br>2D Tileamps |                                                                      |
+|              |            |                                 |             |          |                                                                | UniTask<br> AstarPathfindingProject<br> Debug Drawing Extensions<br> |
+| Whinarm's Unity Mesh Simplifier             |            |                                 |             |          |                                                                |                                                                      |
+	                                                       |
+	
+
 <p class="tab">Created -> June 2021 <br>
 	Deadline - > March 2022 <br>
 	Completion -> March 2022; sysem extended since completion<br>
@@ -32,9 +39,6 @@ ___
 <p class="tab">
 This tool is based off of <a href="SebastianLague.md" class="internal-link">Sebastian Lague</a>'s <a href="seb-lag-cave-gen.md" class="internal-link">Procedural Cave Generation</a> playlist on his YouTube. 
 Information about the overal process of using this tool
-</p>
-<p class="tab">
-test
 </p>
 </div>
 

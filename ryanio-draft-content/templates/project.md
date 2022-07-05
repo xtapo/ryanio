@@ -1,21 +1,25 @@
 ---
-created: ["{{date: DD-MM-YYYY}} {{time}}"]
-aliases: ["Name of Document"]
+layout: project
+title: 'Omni Game'
+caption: A passion project of a game I am developing solo in Unity.
+description: >
+  Here is an over view on 
+date: '01-07-2022'
+sitemap: true
 ---
 
-# Project -> 
+# Project  
 ___
-## Project Description
----
-## Project information
+## Description
+<p>One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential.</P>
+
+## Information
 <p class="tab">Created -> June 2021 <br>
 	Deadline - > March 2022 <br>
 	Completion -> March 2022; sysem extended since completion<br>
 Type -> Engine tool <br>
 Platform -> Unity <br>
 </p>
-
-___
 
 ## Objective
 
