@@ -2,8 +2,7 @@
 layout: resume
 title: Résumé*
 description: >
-  This is the `description` of your resume page, as it will be seen by search engines.
-  You'll probably want to modify it in `resume.md`, and maybe set `hide_description` to `true` in the front matter.
+  An engineer that is a self taught C#, .NET. & Unity developer. Sharing all things Unity & C#. Projects, coding, engineering, project management, & blogging.
 hide_description: true
 left_column:
   - work

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_projects/_obsidian-includes/extension-methods-content.md",
+            "file": "resume.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/_obsidian-includes/extension-methods-content.md",
+                "file": "resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "24c7b8a20c8696ba",
   "lastOpenFiles": [
+    "resume.md",
     "_projects/_obsidian-includes/extension-methods-content.md",
     "_projects/extension-methods.md",
     "_projects/hydejack-site.md",
