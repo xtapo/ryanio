@@ -37,7 +37,7 @@ Created -> June 2021 <br/>
 Type -> Engine tool <br/>
 Platform -> Unity <br/>
 Dependencies, Internal -> Odin Inspector, Burst, Jobs, Addressables, 2D Tilemaps,  <br/> 
-Dependencies, External -> <a href="UniTask.md" class="internal-link">UniTask</a>, <a href="Astar.md" class="internal-link">AstarPathfindingProject</a>, <a href="DebugDrawExtensions.md" class="internal-link">Debug Drawing Extensions</a>, <a href="whinarm-mesh-simplifier.md" class="internal-link">Whinarm's Unity Mesh Simplifier</a>
+Dependencies, External -> <a href="UniTask.md" class="internal-link">UniTask</a>, <a href="Astar.md" class="internal-link">AstarPathfindingProject</a>, <a href="DebugDrawExtensions.md" class="internal-link">Debug Drawing Extensions</a>, <a href="whinarm-mesh-simplifier.md" class="internal-link">Whinarm's Unity Mesh Simplifier</a>, [[Easy Wall Colliders]]
 <br/><br/>
 
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_projects/procedural-generation.md",
-            "mode": "source",
+            "file": "ryanio-draft-content/templates/snippet.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#asset",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/procedural-generation.md",
+                "file": "ryanio-draft-content/templates/snippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "840803607232372a",
   "lastOpenFiles": [
-    "_projects/procedural-generation.md",
-    "ryanio-draft-content/templates/project.md",
-    "ryanio-draft-content/examples/example-toc-with-css.md",
-    "ryanio-draft-content/Pasted image 20220705143116.png",
     "ryanio-draft-content/templates/snippet.md",
+    "ryanio-draft-content/templates/project.md",
     "ryanio-draft-content/templates/paragraph.md",
+    "ryanio-draft-content/templates/linebreak.md",
+    "ryanio-draft-content/templates/html-internal-link.md",
     "ryanio-draft-content/templates/html-external-link.md",
-    "ryanio-draft-content/SebastianLague.md",
-    "Pasted.md",
-    "ryanio-draft-content/DebugDrawExtensions.md"
+    "ryanio-draft-content/templates/bold-italic.md",
+    "ryanio-draft-content/templates-core/time-now.md",
+    "ryanio-draft-content/templates-core/time-modified.md",
+    "ryanio-draft-content/UniTask.md"
   ]
 }

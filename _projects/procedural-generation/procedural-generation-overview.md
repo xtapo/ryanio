@@ -1,25 +1,17 @@
 # Procedural Generator
 ___
 ## Description 
-- One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential. 
+- One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential. <br/><br/>
+- The full GitHub repo is available at: GITHUB REPO LINK<br/><br/>
+- There are a number of dependencies that are required to make this tool work properly. ALL internal & external dependencies listed below are required. 
 
-## Project information
-
-# Procedural Generator
-___
-## Description 
-- One of the goals for Omni was to have quasi-procedurally generated levels (maps, worlds, etc.) that the player(s) and NPCs can interact with. Once a 'base' for a level has been established (by generation), manually processing the level to include details and make the level more conrugent in how it flows is essential. 
-
-## Project information
-
-| Created | Deadline   | Completed                  | Type        | Platform | Dependencies(I)                                          | Dependencies(E)                                                |
-| ------------ | ---------- | ------------------------------- | ----------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Jun-2021    | Mar-2022 | Mar-2022 | Tool | Unity    | Odin Inspector<br>Burst<br>Jobs<br>Addressables<br>2D Tileamps |                                                                      |
-|              |            |                                 |             |          |                                                                | UniTask<br> AstarPathfindingProject<br> Debug Drawing Extensions<br> |
-| Whinarm's Unity Mesh Simplifier             |            |                                 |             |          |                                                                |                                                                      |
-	                                                       |
+| Created                         | Deadline | Completed | Type | Platform | Dependencies(I)                                                | Dependencies(E)                                                      |
+| ------------------------------- | -------- | --------- | ---- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Jun-2021                        | Mar-2022 | Mar-2022  | Tool | Unity    | Odin Inspector<br>Burst<br>Jobs<br>Addressables<br>2D Tileamps |                                                                      |
+|                                 |          |           |      |          |                                                                | UniTask<br> AstarPathfindingProject<br> Debug Drawing Extensions<br> |
+| Whinarm's Unity Mesh Simplifier |          |           |      |          |                                                                |                                                                      |
+	                                                    
 	
-
 <p class="tab">Created -> June 2021 <br>
 	Deadline - > March 2022 <br>
 	Completion -> March 2022; sysem extended since completion<br>
@@ -28,8 +20,7 @@ Platform -> Unity <br>
 Dependencies, Internal -> Odin Inspector, Burst, Jobs, Addressables, 2D Tilemaps,  <br> 
 Dependencies, External -> <a href="UniTask.md" class="internal-link">UniTask</a>, <a href="Astar.md" class="internal-link">AstarPathfindingProject</a>, <a href="DebugDrawExtensions.md" class="internal-link">Debug Drawing Extensions</a>, <a href="whinarm-mesh-simplifier.md" class="internal-link">Whinarm's Unity Mesh Simplifier</a>
 <br><br>
-The full GitHub repo is available at: GITHUB REPO LINK<br><br>
-<b><i>There are a number of dependencies that are required to make this tool work properly. ALL internal & external dependencies listed above are required. I of course will not distribute paid assets through my GitHub repos.</b></i>
+
 </p>
 
 ___
